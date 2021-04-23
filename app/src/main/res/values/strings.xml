@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">A-Geek</string>
+    <string name="dogDescription">"The dog is one of the most popular pets in the world.
+Dogs have long played an important role in the lives of humans. It's thought that dogs have been pets for thousands of years. Dogs are often called Man's Best Friend. This is because dogs help man out in so many ways."
+</string>
+    <string name="catDescription">"Cats are one of, if not the most, popular pet in the world. They conserve energy by sleeping for an average of 13 to14 hours a day.
+
+A group of cats is called a clowder, a male cat is called a tom, a female cat is called a molly or queen while young cats are called kittens. Cats have powerful night vision.
+
+They also have excellent hearing and a powerful sense of smell. On average cats live for around 12 to 15 years.
+Cats spend a large amount of time licking their coats to keep them clean."</string>
+    <string name="lionDescription">"Lions are big cats known as the "King of the Jungle. They are found in Africa and India where they sit at the top of the food chain.
+
+A pride of lions can range from 3 lions to as many as 30 lions. A pride is usually made up of lionesses, their cubs, and a few male lions.
+
+Lions lay around most of the day resting in the shade.
+
+Lions are carnivores and eat meat.  Lions are famous for their loud roar which can be heard up to 5 miles away. "</string>
+    <string name="pandaDescription">"A giant panda is a black and white bear. That's right the giant panda really is a bear and is classified in the bear family Ursidae. It's easy to recognize by its black and white patches. The panda's eyes, ears, legs, and shoulders are all black, and the rest of its body is white.
+
+Giant pandas primarily eat bamboo, but they are carnivores meaning they do eat some meat."</string>
+
+    <string name="birdDescription">"The main characteristic of a bird is feathers. No other animal has feathers. Other important features for birds are wings and hollow bones. Birds also lay eggs, like reptiles, however they are warm-blooded, like mammals.
+
+Birds fly by flapping their wings and using air pressure to create lift under their wings. Just like airplanes do.
+
+Some birds that don't fly are penguins, kiwis, and ostriches. Penguins actually spend a good portion of time in the water where they are prolific swimmers. Ostriches on the other hand are very fast runners"</string>
+
+
+    <string name="giftDescription"><![CDATA[The first color in <br> the rainbow is <br> <font color="#FF0000">RED</font>.]]></string>
+    <string name="carrotDescription"><![CDATA[The second color <br> in the rainbow is <br> <font color="#FE630B">ORANGE</font>.]]></string>
+    <string name="duckDescription"><![CDATA[The third color in <br> the rainbow is <br> <font color="#B58D00">YELLOW</font>.]]></string>
+    <string name="treeDescription"><![CDATA[The fourth color in <br> the rainbow is <br> <font color="#57FD49">GREEN</font>.]]></string>
+    <string name="waveDescription"><![CDATA[The fifth color in <br> the rainbow is <br> <font color="#0085FF">BLUE</font>.]]></string>
+    <string name="chairDescription"><![CDATA[The sixth color in <br> the rainbow is <br> <font color="#54068D">INDIGO</font>.]]></string>
+    <string name="grapesDescription"><![CDATA[The seven color in <br> the rainbow is <br> <font color="#D100F5">VIOLET</font>.]]></string>
+</resources>
